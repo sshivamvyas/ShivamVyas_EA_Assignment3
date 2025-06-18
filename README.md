@@ -18,12 +18,12 @@ This repository contains my solutions for Assignment 2, which covers:
 
 ### Question 1: PINN vs Data-Only NN
 - Navigate to `src/`
-- Run: `python question1_pinn_vs_data_nn.py`
+- Run: `Question1.py`
 - The script trains models, plots activation maps and error maps, and prints RMSE results.
 
 ### Question 2: Neural ODE vs Standard NN
 - Navigate to `src/`
-- Run: `python question2_neural_ode.py`
+- Run: `Question2.py`
 - The script trains both models on the toy dataset, prints training/test accuracy, and plots decision boundaries and loss curves.
 
 ## Dependencies
